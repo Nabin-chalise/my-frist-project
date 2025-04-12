@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd #import pandas library for data visualization 
 
 # Sample dataset
 data = {
