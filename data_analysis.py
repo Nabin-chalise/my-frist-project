@@ -1,4 +1,4 @@
-import pandas as pd #import pandas library for data visualization 
+import pandas as pd  # import numpy as np
 
 # Sample dataset
 data = {
